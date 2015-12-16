@@ -1,19 +1,4 @@
-# Learn
-UsedForLearn
-
-####
-Jackli Branch added
-
-<<<<<<< HEAD
-》》》》》》》》》
-add new comments from Gitbub
-><<><><><><><><><><>
-change master file at GitBub side
-
-!!!!!!!!!!!!!!!!!!!!!!!!!
-
-mmmmmmmmmmmmmmmmmmmmmmmmmm
-?????????????????????????????
+clean
 
 <<<<<<< HEAD
 master change!master change!master change!master change!
